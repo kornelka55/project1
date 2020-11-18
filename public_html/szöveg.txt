@@ -12,7 +12,7 @@ Lehet túlélni, de a játék sok lehetőséget kreativításunk villogtatásár
 Több játékmód van:
 -Túlélő: Ételt, alapanyagot kell szereznünk, szörnyekkel kell megküzdenünk, és el kell kalandoznunk az End-be, ahol az Ender Dragont kell legyőznünk.
 -Kreatív: Bármit tehetünk, halhatatlanok vagyunk, nem kell ennünk, és végtelen alapanyagunk van. Építésre van tervezve, tudunk bent repülni is.
--Hardcora: Ugyan olyan mint a túlélő mód, csak a nehézségi szint nehez, nem lehet átállítani, és ha meghalunk, nem lehet újraéledni, törlődik a világunk.
+-Hardcore: Ugyan olyan mint a túlélő mód, csak a nehézségi szint nehez, nem lehet átállítani, és ha meghalunk, nem lehet újraéledni, törlődik a világunk.
 
 Fortnite
 A Fortnite először egy hátulnézetes co-op játéknak indult, melyben fortokat kell építenünk, és a csapatunk segítségével küldetéseket végrehajtani.
