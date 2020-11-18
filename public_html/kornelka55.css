@@ -37,3 +37,39 @@ table{
     width: 100px;
     height: 50px;
 }
+body{
+    margin: 0px;
+}
+div#menu a{
+    color: brown;
+    display: inline-block;
+    width: 183px;
+    height: 37px;
+    background-image: url("gomb.png");
+    background-repeat: no-repeat;
+    padding-top: 13px;
+    padding-left: 17px;
+    text-decoration: none;
+    font-family: absender1, monospace;
+    font-size: 21.2px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    margin-right: 1px;
+}
+
+div#menu a:first-letter{
+    color: white;
+    font-size: 32px;
+    letter-spacing: 15px;
+    font-family: absender1, monospace;
+}
+
+div#menu a:hover{
+    background-position: 0px -50px;
+    background-color: bisque;
+}
+
+
+div#menu a:active{
+    background-position: 0px -100px;
+}
