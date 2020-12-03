@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.12.03., 18:36:48
+    Author     : pumba
+*/
+body.gta{
+    background-image: url("képek1/canga.jpg"); 
+    
+    
+    
+}
+p{
+    font-family: sans-serif;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    font-size: 20px;
+}
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+    width: 25%;
+    text-align: center;
+    height: 25%;
+    box-shadow: #666666 2px 2px 2px 2px;
+}
+table, caption{
+    background-color: white;
+    border: 1px solid black;
+    font-size: 15px;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+table{
+    width: 50%;
+    height: 25%;
+    float: right;
+    padding: 20px;
+    
+
+}
+
