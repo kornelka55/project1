@@ -2,14 +2,14 @@ table, td{
     border: 2px solid black;
     border-collapse: collapse;
     text-align: center;
-    background-color: 1CC72A;
+    background-color: 265FFC;
     height: 50px;
     text-align: center;
     width: 100px;
     
 }
 table, caption{
-    background-color: 00FF15;
+    background-color: 0044FF;
     border: 1px solid black;
     width: 100px;
     height: 20px;
@@ -20,14 +20,25 @@ table, tr{
 }
 h1{
     text-align: center;
-    font-family: sans-serif
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+        
     
 }
 p{
-    text-align: center;
+    text-align: left;
+    color: white;
+    font-family: sans-serif;
+    width: 40%;
+    font-size: 18px;
+    
 }
 body{
-    background-color: 59FF67;
+    background-color: darkblue;
+    padding: 100px;
+    min-width: 840px;
 }
 th {
   background-color: #4CAF50;
@@ -37,6 +48,49 @@ table{
     width: 100px;
     height: 100px;
 }
-
-      
-
+h2{
+    color: white;
+    font-size: 40px;
+}
+ul{
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+img{
+    width: 480px;
+    float: right;
+    overflow: auto;
+    border-radius: 20px;
+    
+    
+  
+}
+div.body{
+    border: 2px white solid;
+    padding: 50px;
+    border-radius: 50px;
+}
+div.mine{
+    width: 480px;
+    float: right;
+    
+    padding: 30px;
+}
+div.forti{
+    width: 480px;
+    float: right;
+    
+}
+div.wow{
+    width: 480px;
+    float: right;
+}
+div.rocket{
+    width: 480px;
+    float: right;
+    
+}
+div.lol{
+    
+}
