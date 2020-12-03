@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.12.03., 16:37:50
+    Author     : pumba
+*/
+
+div#gomb a{
+    color: white;
+    display: inline-block;
+    width: 145px;
+    height: 33px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    font-family: absender1, monospace;
+    font-size: 21.2px;
+    font-weight: bold;
+    background-color: gray;
+    border: black 3px solid;
+    border-radius: 60px;
+    text-align: center;
+    box-shadow: black 3px 2px 3px 1px;
+}
+div{
+    padding: 10px;
+}
+body{
+    background-image: url("képek1/gaming.jpg");
+    background-repeat: no-repeat;
+    background-size: 1366px 768px;
+}
+
