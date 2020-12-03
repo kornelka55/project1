@@ -33,12 +33,14 @@ p{
     font-family: sans-serif;
     width: 40%;
     font-size: 18px;
-    
+   
 }
 body{
+    
     background-color: darkblue;
     padding: 100px;
     min-width: 840px;
+    
 }
 th {
   background-color: #4CAF50;
@@ -62,6 +64,7 @@ img{
     float: right;
     overflow: auto;
     border-radius: 20px;
+    box-shadow: 5px grey;
     
     
   
