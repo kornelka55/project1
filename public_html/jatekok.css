@@ -78,4 +78,21 @@ div#gombi a{
     box-shadow: black 3px 2px 3px 1px;
     
 }
-
+.Fortnite{
+    background-image: URL("képek1/wp5322874.jpg");
+    margin: auto;
+    text-align: center;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    background-repeat: no-repeat;
+    background-size: 1620px 980px;
+}
+.forti{
+   background-image: URL("képek1/wp5322874.jpg");
+}
+h2{
+    text-align: center;
+    color: white;
+}
