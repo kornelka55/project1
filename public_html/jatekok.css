@@ -53,4 +53,21 @@ table{
     
 
 }
+div#gombi a{
+    color: white;
+    display: inline-block;
+    width: 80px;
+    height: 28px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    font-family: absender1, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3333ff;
+    border: black 3px solid;
+    border-radius: 60px;
+    text-align: center;
+    box-shadow: black 3px 2px 3px 1px;
+    
+}
 
