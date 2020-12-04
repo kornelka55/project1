@@ -30,26 +30,34 @@ table, td{
     border: 2px solid black;
     border-collapse: collapse;
     text-align: center;
-    background-color: white;
+    background-color: #B6C2CF;
     width: 25%;
     text-align: center;
-    height: 25%;
+    height: 20%;
     box-shadow: #666666 2px 2px 2px 2px;
+    font-size: 18px;
+   
 }
-table, caption{
-    background-color: white;
+caption{
+    background-color: #B6C2CF;
     border: 1px solid black;
     font-size: 15px;
+    height: 25px;
+    width: 25%;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 35%;
 }
 th {
     background-color: #4CAF50;
-    color: white;
+    
 }
 table{
     width: 50%;
     height: 25%;
     float: right;
     padding: 20px;
+    
     
 
 }
