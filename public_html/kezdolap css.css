@@ -23,6 +23,9 @@ div#gomb a{
     border-radius: 60px;
     text-align: center;
     box-shadow: black 3px 2px 3px 1px;
+    
+    
+    
 }
 div{
     padding: 10px;
@@ -30,6 +33,23 @@ div{
 body{
     background-image: url("képek1/gaming.jpg");
     background-repeat: no-repeat;
-    background-size: 1366px 768px;
+    background-size: 1500px 768px;
+}
+p{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    width: 50%;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+h1{
+    text-align: center;
+
+
 }
 
+  
