@@ -30,8 +30,8 @@ div#gomb a{
 div{
     padding: 10px;
 }
-body{
-    background-image: url("képek1/gaming.jpg");
+body.kezdolap{
+    background-image: url("képek1/kezdolap.jpg");
     background-repeat: no-repeat;
     background-size: 1500px 768px;
 }
