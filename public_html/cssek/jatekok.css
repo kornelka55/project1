@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.12.03., 18:36:48
+    Author     : pumba
+*/
+body.gta{
+    background-image: url("képek1/canga.jpg"); 
+    
+    
+    
+}
+p{
+    font-family: sans-serif;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    font-size: 20px;
+}
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #B6C2CF;
+    width: 25%;
+    text-align: center;
+    height: 20%;
+    box-shadow: #666666 2px 2px 2px 2px;
+    font-size: 18px;
+   
+}
+caption{
+    background-color: #B6C2CF;
+    border: 1px solid black;
+    font-size: 15px;
+    height: 25px;
+    width: 25%;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 35%;
+}
+th {
+    background-color: #4CAF50;
+    
+}
+table{
+    width: 50%;
+    height: 25%;
+    float: right;
+    padding: 20px;
+    
+    
+
+}
+div#gombi a{
+    color: white;
+    display: inline-block;
+    width: 80px;
+    height: 28px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    font-family: absender1, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3333ff;
+    border: black 3px solid;
+    border-radius: 60px;
+    text-align: center;
+    box-shadow: black 3px 2px 3px 1px;
+    
+}
+.Fortnite{
+    background-image: URL("képek1/wp5322874.jpg");
+    margin: auto;
+    text-align: center;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    background-repeat: no-repeat;
+    background-size: 1620px 980px;
+}
+.forti{
+   background-image: URL("képek1/wp5322874.jpg");
+}
+h2{
+    text-align: center;
+    color: white;
+}
