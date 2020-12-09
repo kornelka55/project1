@@ -9,9 +9,9 @@ and open the template in the editor.
 */
 body.gta{
     background-image: url("../kepek1/canga.jpg"); 
-    
-    
-    
+
+
+
 }
 p{
     font-family: sans-serif;
@@ -36,7 +36,7 @@ table, td{
     height: 20%;
     box-shadow: #666666 2px 2px 2px 2px;
     font-size: 18px;
-   
+
 }
 caption{
     background-color: #B6C2CF;
@@ -50,15 +50,15 @@ caption{
 }
 th {
     background-color: #4CAF50;
-    
+
 }
 table{
     width: 50%;
     height: 25%;
     float: right;
     padding: 20px;
-    
-    
+
+
 
 }
 div#gombi a{
@@ -76,7 +76,7 @@ div#gombi a{
     border-radius: 60px;
     text-align: center;
     box-shadow: black 3px 2px 3px 1px;
-    
+
 }
 .Fortnite{
     background-image: URL("../kepek1/wp5322874.jpg");
@@ -89,10 +89,13 @@ div#gombi a{
     background-repeat: no-repeat;
     background-size: 1620px 980px;
 }
-.forti{
-   background-image: URL(../"kepek1/wp5322874.jpg");
+body.forti{
+    background-image: URL("../kepek1/wp5322874.jpg");
 }
 h2{
     text-align: center;
     color: white;
+}
+body.minecraft{
+    background-repeat: no-repeat;
 }
