@@ -1,13 +1,3 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 2020.12.03., 16:37:50
-    Author     : pumba
-*/
-
 div#gomb a{
     color: white;
     display: inline-block;
@@ -31,7 +21,7 @@ div{
     padding: 10px;
 }
 body.kezdolap{
-    background-image: url("képek1/kezdolap.jpg");
+    background-image: url("../kepek1/kezdolap.jpg");
     background-repeat: no-repeat;
     background-size: 1500px 768px;
 }

@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : pumba
 */
 body.gta{
-    background-image: url("képek1/canga.jpg"); 
+    background-image: url("../kepek1/canga.jpg"); 
     
     
     
@@ -79,7 +79,7 @@ div#gombi a{
     
 }
 .Fortnite{
-    background-image: URL("képek1/wp5322874.jpg");
+    background-image: URL("../kepek1/wp5322874.jpg");
     margin: auto;
     text-align: center;
     margin-bottom: auto;
@@ -90,7 +90,7 @@ div#gombi a{
     background-size: 1620px 980px;
 }
 .forti{
-   background-image: URL("képek1/wp5322874.jpg");
+   background-image: URL(../"kepek1/wp5322874.jpg");
 }
 h2{
     text-align: center;
