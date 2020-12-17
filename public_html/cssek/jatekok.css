@@ -145,3 +145,8 @@ ul{
     
     
 }
+body.rocket {
+    background-image: URL("../kepek1/820075.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
