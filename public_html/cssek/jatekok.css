@@ -152,3 +152,6 @@ body.rocket {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.rl{
+    float: right;
+}
