@@ -23,7 +23,7 @@ p{
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
-    float: right;
+
     font-size: 20px;
 }
 table, td{
@@ -57,20 +57,20 @@ table{
     height: 25%;
     float: right;
     padding: 20px;
-
-
-
+    display: inline-table;
+    margin-top: 50px; 
+    float: right;
 }
 div#gombi a{
     color: white;
-    display: inline-block;
+   
     width: 80px;
     height: 28px;
     background-repeat: no-repeat;
     text-decoration: none;
     font-family: absender1, monospace;
     font-size: 18px;
-    font-weight: bold;
+    font-size: bold;
     background-color: #3333ff;
     border: black 3px solid;
     border-radius: 60px;
@@ -79,23 +79,69 @@ div#gombi a{
 
 }
 .Fortnite{
-    background-image: URL("../kepek1/wp5322874.jpg");
+    
     margin: auto;
     text-align: center;
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
-    background-repeat: no-repeat;
-    background-size: 1620px 980px;
+   
 }
 body.forti{
     background-image: URL("../kepek1/wp5322874.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h2{
     text-align: center;
     color: white;
+    font-size: 20px;
+    padding: 5px;
 }
 body.minecraft{
     background-repeat: no-repeat;
+    background-image: URL("../kepek1/maxresdefault.jpg");
+    background-size: cover;
+}
+ul{
+    color: blue;
+    border: black 5px;
+    border-radius: 50px;
+    border-style: solid;
+    width: 30%;
+    background-color: wheat;
+    margin-top: 300px;
+    float: left;
+}
+.minecraftszoveg{
+    margin-top: 0px;
+    border: black solid 2px;
+    background-color: wheat;
+    color: blue;
+    border-radius: 25px;
+}
+#igen{
+    display: inline-block;
+}
+.wow{
+    color: white;
+    
+}
+.wowhatter{
+    background-image: url(../kepek1/wow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lolhatter{
+    background-image: url(../kepek1/lol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.loltabla{
+    float: left;
+}
+.warzone{
+    
+    
 }
