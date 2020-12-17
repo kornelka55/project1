@@ -79,18 +79,19 @@ div#gombi a{
 
 }
 .Fortnite{
-    background-image: URL("../kepek1/wp5322874.jpg");
+    
     margin: auto;
     text-align: center;
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
-    background-repeat: no-repeat;
-    background-size: 1620px 980px;
+   
 }
 body.forti{
     background-image: URL("../kepek1/wp5322874.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h2{
     text-align: center;
@@ -122,4 +123,25 @@ ul{
 }
 #igen{
     display: inline-block;
+}
+.wow{
+    color: white;
+    
+}
+.wowhatter{
+    background-image: url(../kepek1/wow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lolhatter{
+    background-image: url(../kepek1/lol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.loltabla{
+    float: left;
+}
+.warzone{
+    
+    
 }
