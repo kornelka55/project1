@@ -63,7 +63,7 @@ table{
 }
 div#gombi a{
     color: white;
-   
+
     width: 80px;
     height: 28px;
     background-repeat: no-repeat;
@@ -79,14 +79,14 @@ div#gombi a{
 
 }
 .Fortnite{
-    
+
     margin: auto;
     text-align: center;
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
-   
+
 }
 body.forti{
     background-image: URL("../kepek1/wp5322874.jpg");
@@ -126,7 +126,7 @@ ul{
 }
 .wow{
     color: white;
-    
+
 }
 .wowhatter{
     background-image: url(../kepek1/wow.jpg);
@@ -142,6 +142,7 @@ ul{
     float: left;
 }
 .warzone{
-    
-    
+    background-image: URL(../kepek1/kepek1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }

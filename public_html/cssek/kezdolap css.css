@@ -23,7 +23,7 @@ div{
 body.kezdolap{
     background-image: url("../kepek1/kezdolap.jpg");
     background-repeat: no-repeat;
-    background-size: 1500px 768px;
+    background-size: cover;
 }
 p{
     text-align: center;
