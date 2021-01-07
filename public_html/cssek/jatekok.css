@@ -47,11 +47,15 @@ th {
 table{
     width: 50%;
     height: 25%;
-    float: right;
     padding: 20px;
     display: inline-table;
     margin-top: 50px; 
-    float: right;
+    position: absolute;
+    text-align: center;
+    clear: both;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 250px;
 }
 div#gombi a{
     color: white;
@@ -62,7 +66,7 @@ div#gombi a{
     text-decoration: none;
     font-family: absender1, monospace;
     font-size: 18px;
-    
+
     background-color: #3333ff;
     border: black 3px solid;
     border-radius: 60px;
@@ -85,10 +89,10 @@ body.forti{
     background-size: cover;
     background-repeat: no-repeat;
 }
-h2{
+h1{
     text-align: center;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     padding: 5px;
 }
 body.minecraft{
@@ -139,9 +143,9 @@ ul{
     background-repeat: no-repeat;
     background-size: cover;
     background-image:url("../kepek1/cod.jpg");
-    background-size: 1366px 768px;
-    
-    
+    background-size: cover;
+
+
 }
 body.rocket {
     background-image: URL("../kepek1/820075.jpg");
@@ -151,4 +155,28 @@ body.rocket {
 .rl{
     float: right;
 
+}
+.among{
+    background-image: URL("../kepek1/amongus.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+p{
+    color: black;
+    text-align: center;
+    margin-right: 350px;
+    border: 3px black solid;
+    background-color: wheat;
+    border-radius: 20px;
+}
+.mctabla{
+    width: 40%;
+}
+.fortitabla{
+    width: 30%;
+    margin-right: 50px;
+    margin-left: 550px;
+}
+.forticim{
+    color: black;
 }
