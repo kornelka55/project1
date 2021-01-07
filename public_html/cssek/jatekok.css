@@ -1,12 +1,4 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 2020.12.03., 18:36:48
-    Author     : pumba
-*/
+
 body.gta{
     background-image: url("../kepek1/canga.jpg"); 
 
@@ -70,7 +62,7 @@ div#gombi a{
     text-decoration: none;
     font-family: absender1, monospace;
     font-size: 18px;
-    font-size: bold;
+    
     background-color: #3333ff;
     border: black 3px solid;
     border-radius: 60px;
@@ -142,7 +134,21 @@ ul{
     float: left;
 }
 .warzone{
+
     background-image: URL(../kepek1/kepek1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-image:url("../kepek1/cod.jpg");
+    background-size: 1366px 768px;
+    
+    
+}
+body.rocket {
+    background-image: URL("../kepek1/820075.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.rl{
+    float: right;
+
 }
